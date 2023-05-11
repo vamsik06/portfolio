@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+
+}
+h1{
+    color: white;
+}
+header{
+    background-color: rgb(24, 10, 0);
+    padding: 10px;
+    height: 150px;
+
+}
+nav ul li{
+    display: inline;
+    padding: 8px;
+    margin-top: 50px;
+}
+nav ul li a{
+    color: burlywood;
+    border-inline: none;
+    text-decoration: none;
+}
+li{
+    display: inline;
+}
+footer{
+    background-color: rgb(40, 29, 29);
+    height: 75px;
+    color: aliceblue;
+    padding: 20px;
+}
+#Portfolio{
+    background-color: rgb(217, 255, 81);
+    padding: 10px;
+
+}
